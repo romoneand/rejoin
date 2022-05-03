@@ -14,6 +14,7 @@ end)
 
 end
 
+
 local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
 
 Notification.Notify("rom", "rejoin successfully loaded", "Amongus", {
@@ -27,7 +28,7 @@ Main = {
 }
 
 });
- getgenv("lrisAd") = true
+end)
 
 
 
